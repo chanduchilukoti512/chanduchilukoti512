@@ -3,7 +3,6 @@
 
 ---
 
-## 👨‍💻 About Me
 I am **Chilukoti Venkata Sai Chandu**, a **Recent Graduate** and a passionate  
 **Full Stack Web Developer & Python Developer** with strong hands-on experience in building fast, clean, and scalable web applications.
 
