@@ -53,4 +53,3 @@ I work across **Frontend, Backend, REST APIs, and Databases**, and I love creati
 
 ---
 
-<h3 align="center">⭐ If you like this repository, please consider giving it a star!</h3>
