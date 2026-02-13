@@ -2,6 +2,7 @@
 <h3 align="center">Full Stack Web Developer • Python Developer • CSE 2025</h3>
 
 <p align="center">
+
 I build clean, scalable, and real-world web applications using modern technologies.
 <br/>
 Passionate about backend logic, APIs, and creating impactful solutions.
